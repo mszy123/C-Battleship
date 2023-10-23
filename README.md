@@ -1,4 +1,4 @@
-#*These were the instructions for the project
+# These were the instructions for the project⬇️
 
 # Project 02: Grid Game
 
